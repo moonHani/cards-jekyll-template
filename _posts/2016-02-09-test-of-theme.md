@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "test of theme 테스트 중이예요"
+title: "장부변증논치"
 date: 2016-02-09 19:33:48
 image: '/assets/img/dica-rapida-2/main.png'
 description: 'Aprenda como ser mais social, ter maior relevância nas redes sociais e atrair mais usuários.'
-main-class: 'html'
+main-class: '한의학'
 color: '#EB7728'
 tags:
-- '테스트'
-- '제킬'
-- '깃허브'
+- '한의학'
+- '서적'
+- '방제'
 categories:
 twitter_text: 'Aprenda a usar as meta tags sociais.'
 introduction: "Aprenda como ser mais social, ter maior relevância nas redes sociais e atrair mais usuários. Para isso, basta criar as meta tags corretas."
