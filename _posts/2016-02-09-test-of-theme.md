@@ -8,8 +8,8 @@ main-class: 'html'
 color: '#EB7728'
 tags:
 - '테스트'
-- seo
-- tutorial
+- '제킬'
+- '깃허브'
 categories:
 twitter_text: 'Aprenda a usar as meta tags sociais.'
 introduction: "Aprenda como ser mais social, ter maior relevância nas redes sociais e atrair mais usuários. Para isso, basta criar as meta tags corretas."
