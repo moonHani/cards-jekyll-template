@@ -32,7 +32,7 @@
   "header": {
   	"view": ["layout", "title", "date", "description", "main-class", "main-name", "color", "tags", "image", "categories", "introduction"],
     "toc": 0,
-  	"layout": "minimal",
+  	"layout": "post",
   	"title": "한의원 응급처치",
   	"date": "2016-06-24 20:14:54",
     "description": "한의원에서 발생할 수 있는 응급상황 예방 대처",

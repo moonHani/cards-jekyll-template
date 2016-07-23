@@ -32,7 +32,7 @@
   "header": {
   	"view": ["layout", "title", "date", "description", "main-class", "main-name", "color", "tags", "image", "categories", "introduction"],
     "toc": 0,
-  	"layout": "minimal",
+  	"layout": "post",
   	"title": "한의원 소양 교육",
   	"date": "2016-06-24 20:14:54",
     "description": "한의원 소양 교육",
