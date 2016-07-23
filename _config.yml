@@ -1,17 +1,18 @@
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
+description: "한의원 블로그"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://moonhani.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+_url: "https://moonhani.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "http://127.0.0.1:4000"
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+username: haniwon
+user_description: 00한의원
+user_title: 한의원
+email: haniwon@hotmail.com
+twitter_username: monwater
+github_username:  moonhani
 gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+disqus_username: moonHani
 
 # Build settings
 markdown: kramdown

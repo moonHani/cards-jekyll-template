@@ -1,0 +1,58 @@
+{
+  "name": "KMC-Closing",
+  "author": "",
+  "date": "2016-06-24",
+  "from": {
+  	"type": "txt",
+  	"path": "D:\\dev\\blog\\moonhani.github.io\\_draft\\txt\\",
+  	"name": ""
+  },
+  "to": {
+  	"type": "md",
+  	"path": "D:\\dev\\blog\\moonhani.github.io\\_posts\\",
+  	"name": ""
+  },
+  "rep": {
+  	"type": "file",
+    "path": "D:\\dev\\blog\\moonhani.github.io\\_draft\\_rep\\", 
+    "name": "r_common.txt"
+  },
+  "note": {
+  	"mark1": "줗",
+    "mark2": "쭣",
+  	"view": 0
+  },
+  "url": {
+  	"img":  "/static/img/post/KMC-Closing/"
+  },
+  "del": {
+  	"from": "~~~S",
+  	"to": "~~~E"
+  },
+  "header": {
+  	"view": ["layout", "title", "date", "description", "main-class", "main-name", "color", "tags", "image", "categories", "introduction"],
+    "toc": 0,
+  	"layout": "post",
+  	"title": "한의원 Closing",
+  	"date": "2016-06-24 20:14:54",
+    "description": "함께 하는 성공비결",
+    "main-class": "general",
+    "main-name": "경영일반",
+    "color": "#7D669E",
+    "tags": ["경영일반", "성공비결", "한의쉼터"],
+    "image": "/assets/img/por-que-usar-svg/coloridos.jpg",
+  	"modified": "",
+  	"categories": "post",
+    "twitter_text": "",
+    "introduction": "가끔씩 힘들 때는 읽어보자."
+  },
+  "split": {
+    "doit": 0,
+    "mark": "쑿",
+    "title": []
+  },
+  "node": {
+    "folder": "D:\\dev\\blog\\_apps\\_myApps",
+    "doit": "node makeMd1.js D:/dev/blog/moonhani.github.io/_draft/_json/md_KMC-Closing.json"
+  }
+}

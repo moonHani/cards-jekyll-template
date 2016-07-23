@@ -1,0 +1,58 @@
+{
+  "name": "A_Road_To_Successful_KMD",
+  "author": "",
+  "date": "2016-06-24",
+  "from": {
+  	"type": "txt",
+  	"path": "D:\\dev\\blog\\moonhani.github.io\\_draft\\txt\\",
+  	"name": ""
+  },
+  "to": {
+  	"type": "md",
+  	"path": "D:\\dev\\blog\\moonhani.github.io\\_posts\\",
+  	"name": ""
+  },
+  "rep": {
+  	"type": "file",
+    "path": "D:\\dev\\blog\\moonhani.github.io\\_draft\\_rep\\", 
+    "name": "r_common.txt"
+  },
+  "note": {
+  	"mark1": "줗",
+    "mark2": "쭣",
+  	"view": 0
+  },
+  "url": {
+  	"img":  "/static/img/post/A_Road_To_Successful_KMD/"
+  },
+  "del": {
+  	"from": "~~~S",
+  	"to": "~~~E"
+  },
+  "header": {
+  	"view": ["layout", "title", "date", "description", "main-class", "main-name", "color", "tags", "image", "categories", "introduction"],
+    "toc": 0,
+  	"layout": "post",
+  	"title": "성공하는 한의사가 되는 길",
+  	"date": "2016-06-24 20:14:54",
+    "description": "성공하는 한의사가 되는 길을 밝히다.",
+    "main-class": "general",
+    "main-name": "경영일반",
+    "color": "#7D669E",
+    "tags": ["경영일반", "성공비결", "한의쉼터"],
+    "image": "/assets/img/por-que-usar-svg/coloridos.jpg",
+  	"modified": "",
+  	"categories": "post",
+    "twitter_text": "",
+    "introduction": "한의쉼터 '너기'의 성공하는 한의사가 되는 길"
+  },
+  "split": {
+    "doit": 0,
+    "mark": "쑿",
+    "title": []
+  },
+  "node": {
+    "folder": "D:\\dev\\blog\\_apps\\_myApps",
+    "doit": "node makeMd1.js D:/dev/blog/moonhani.github.io/_draft/_json/md_A_Road_To_Successful_KMD.json"
+  }
+}

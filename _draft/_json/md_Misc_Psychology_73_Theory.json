@@ -1,0 +1,58 @@
+{
+  "name": "Misc_Psychology_73_Theory",
+  "author": "",
+  "date": "2016-06-24",
+  "from": {
+  	"type": "txt",
+  	"path": "D:\\dev\\blog\\moonhani.github.io\\_draft\\txt\\",
+  	"name": ""
+  },
+  "to": {
+  	"type": "md",
+  	"path": "D:\\dev\\blog\\moonhani.github.io\\_posts\\",
+  	"name": ""
+  },
+  "rep": {
+  	"type": "file",
+    "path": "D:\\dev\\blog\\moonhani.github.io\\_draft\\_rep\\", 
+    "name": "r_common.txt"
+  },
+  "note": {
+  	"mark1": "줗",
+    "mark2": "쭣",
+  	"view": 0
+  },
+  "url": {
+  	"img":  "/static/img/post/Misc_Psychology_73_Theory/"
+  },
+  "del": {
+  	"from": "~~~S",
+  	"to": "~~~E"
+  },
+  "header": {
+  	"view": ["layout", "title", "date", "description", "main-class", "main-name", "color", "tags", "image", "categories", "introduction"],
+    "toc": 0,
+  	"layout": "post",
+  	"title": "심리학 이론 73가지",
+  	"date": "2016-06-24 20:14:54",
+    "description": "심리학 이론 73가지",
+    "main-class": "misc",
+    "main-name": "기타",
+    "color": "#EB7728",
+    "tags": ["심리학", "읽을거리", "짧은글"],
+    "image": "/assets/img/por-que-usar-svg/coloridos.jpg",
+  	"modified": "",
+  	"categories": "post",
+    "twitter_text": "",
+    "introduction": "심리학 이론 73가지"
+  },
+  "split": {
+    "doit": 0,
+    "mark": "쑿",
+    "title": []
+  },
+  "node": {
+    "folder": "D:\\dev\\blog\\_apps\\_myApps",
+    "doit": "node makeMd1.js D:/dev/blog/moonhani.github.io/_draft/_json/md_Misc_Psychology_73_Theory.json"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Viral_Marketing",
+  "author": "",
+  "date": "2016-06-24",
+  "from": {
+  	"type": "txt",
+  	"path": "D:\\dev\\blog\\moonhani.github.io\\_draft\\txt\\",
+  	"name": ""
+  },
+  "to": {
+  	"type": "md",
+  	"path": "D:\\dev\\blog\\moonhani.github.io\\_posts\\",
+  	"name": ""
+  },
+  "rep": {
+  	"type": "file",
+    "path": "D:\\dev\\blog\\moonhani.github.io\\_draft\\_rep\\", 
+    "name": "r_common.txt"
+  },
+  "note": {
+  	"mark1": "줗",
+    "mark2": "쭣",
+  	"view": 0
+  },
+  "url": {
+  	"img":  "/static/img/post/Viral_Marketing/"
+  },
+  "del": {
+  	"from": "~~~S",
+  	"to": "~~~E"
+  },
+  "header": {
+  	"view": ["layout", "title", "date", "description", "main-class", "main-name", "color", "tags", "image", "categories", "introduction"],
+    "toc": 0,
+  	"layout": "post",
+  	"title": "바이럴 마케팅(Viral Marketing)",
+  	"date": "2016-06-24 20:14:54",
+    "description": "바이럴 마케팅이란?",
+    "main-class": "promotion",
+    "main-name": "홍보",
+    "color": "#7D669E",
+    "tags": ["마케팅", "홍보", "성공"],
+    "image": "/assets/img/por-que-usar-svg/coloridos.jpg",
+  	"modified": "",
+  	"categories": "post",
+    "twitter_text": "",
+    "introduction": "바이럴 마케팅이란?"
+  },
+  "split": {
+    "doit": 0,
+    "mark": "쑿",
+    "title": []
+  },
+  "node": {
+    "folder": "D:\\dev\\blog\\_apps\\_myApps",
+    "doit": "node makeMd1.js D:/dev/blog/moonhani.github.io/_draft/_json/md_Viral_Marketing.json"
+  }
+}

@@ -4,12 +4,10 @@ title: "남성동의보감"
 date: 2016-02-09 19:33:48
 image: '/assets/img/dica-rapida-2/main.png'
 description: '신재용 원장의 질병을 예방하고 치료하는 한방요법'
-main-class: '한의학'
+main-class: 'html'
+main-ribon: '한의학'
 color: '#EB7728'
-tags:
-- '한의학'
-- '서적'
-- '방제'
+tags: ['한의학', '서적', '상식']
 categories:
 twitter_text: 'Aprenda a usar as meta tags sociais.'
 introduction: "질병을 예방하고 치료하는 한방요법 / 운동에 버금가는 지압요법 / ‘태식’ 하면서 지압한다"

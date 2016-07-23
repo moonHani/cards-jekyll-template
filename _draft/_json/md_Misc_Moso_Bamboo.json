@@ -1,0 +1,58 @@
+{
+  "name": "Misc_Moso_Bamboo",
+  "author": "",
+  "date": "2016-06-24",
+  "from": {
+  	"type": "txt",
+  	"path": "D:\\dev\\blog\\moonhani.github.io\\_draft\\txt\\",
+  	"name": ""
+  },
+  "to": {
+  	"type": "md",
+  	"path": "D:\\dev\\blog\\moonhani.github.io\\_posts\\",
+  	"name": ""
+  },
+  "rep": {
+  	"type": "file",
+    "path": "D:\\dev\\blog\\moonhani.github.io\\_draft\\_rep\\", 
+    "name": "r_common.txt"
+  },
+  "note": {
+  	"mark1": "줗",
+    "mark2": "쭣",
+  	"view": 0
+  },
+  "url": {
+  	"img":  "/static/img/post/Misc_Moso_Bamboo/"
+  },
+  "del": {
+  	"from": "~~~S",
+  	"to": "~~~E"
+  },
+  "header": {
+  	"view": ["layout", "title", "date", "description", "main-class", "main-name", "color", "tags", "image", "categories", "introduction"],
+    "toc": 0,
+  	"layout": "post",
+  	"title": "모소 대나무",
+  	"date": "2016-06-24 20:14:54",
+    "description": "모소 대나무 이야기",
+    "main-class": "misc",
+    "main-name": "기타",
+    "color": "#EB7728",
+    "tags": ["마음가짐", "읽을거리", "짧은글"],
+    "image": "/assets/img/por-que-usar-svg/coloridos.jpg",
+  	"modified": "",
+  	"categories": "post",
+    "twitter_text": "",
+    "introduction": "“내게 나무를 벨 시간이 여덟 시간 주어진다면, 그 중 여섯 시간은 도끼를 가는데 쓰겠다.”   --에이브러햄 링컨"
+  },
+  "split": {
+    "doit": 0,
+    "mark": "쑿",
+    "title": []
+  },
+  "node": {
+    "folder": "D:\\dev\\blog\\_apps\\_myApps",
+    "doit": "node makeMd1.js D:/dev/blog/moonhani.github.io/_draft/_json/md_Misc_Moso_Bamboo.json"
+  }
+}

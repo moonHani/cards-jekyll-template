@@ -1,15 +1,15 @@
 ---
 layout: default
-main-class: 'js'
+main-class: 'manual'
 ---
 
 <main class="home" id="scroll" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-    <h1 class="title-category">JS</h1>
+    <h1 class="title-category">{{post.main-name}}</h1>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
-        {% if post.main-class == 'js' %}
+        {% if post.main-class == 'manual' %}
             <article class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-                <span class="ribbon"><span>{{post.main-class}}</span></span>
+                <span class="ribbon"><span>{{post.main-name}}</span></span>
                     <div class="box-body">
                         <meta itemprop="datePublished" content="{{post.date | date_to_xmlschema }}">
                         <time datetime="{{ post.date | date_to_xmlschema }}">

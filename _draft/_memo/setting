@@ -1,0 +1,36 @@
+세팅 파일
+1. _config.yml
+url: "https://moonhani.github.io"
+=> url: "http://127.0.0.1:4000"
+
+2. index.html
+post.main-class => post.main-name
+
+2. category folder
+- 카테고리별 테마 설정
+
+3. _includes
+1) footer.html
+
+
+3. assets/css/main.css
+- 카테고리 css
+post-(카테고리)
+css => general	#7D669E
+dev 	#637A91
+html => manual	#EB7728
+jekyll => notice	#B31917
+svg => promotion	#7D669E
+js	#D6BA32
+misc => misc	#7AAB13
+
+.logo a:after{content:'</> Anon Developer'}
+=>
+.logo a:after{content:'</> 사람을 살리는 숲'}
+
+2. package.json
+
+
+
+4. 
+

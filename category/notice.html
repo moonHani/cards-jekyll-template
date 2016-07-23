@@ -1,15 +1,15 @@
 ---
 layout: default
-main-class: '한의학'
+main-class: 'notice'
 ---
 
-<main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-    <h1 class="title-category">HTML</h1>
+<main class="home" id="scroll" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+    <h1 class="title-category">{{post.main-name}}</h1>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
-        {% if post.main-class == '한의학' %}
+        {% if post.main-class == 'notice' %}
             <article class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-                <span class="ribbon"><span>{{post.main-class}}</span></span>
+                <span class="ribbon"><span>{{post.main-name}}</span></span>
                     <div class="box-body">
                         <meta itemprop="datePublished" content="{{post.date | date_to_xmlschema }}">
                         <time datetime="{{ post.date | date_to_xmlschema }}">
